@@ -1,5 +1,3 @@
-# Bienvenido a mi página de GitHub
-
 ## 👋 ¡Hola!
 Soy Ale, un desarrollador de software apasionado por el desarrollo de apps web y de entorno servidor. Tengo experiencia con Angular y NodeJs, y actualmente estoy enfocado en desarrollo de aplicaciones serverless.
 
