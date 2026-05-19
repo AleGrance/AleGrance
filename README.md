@@ -1,5 +1,5 @@
 ## 👋 ¡Hola!
-Soy Ale, un desarrollador de software apasionado por el desarrollo de apps web y de entorno servidor. Tengo experiencia con Angular y NodeJs, y actualmente estoy enfocado en desarrollo de aplicaciones integradas con APIs de terceros, bases de datos relacionales y Microservicios.
+Soy Ale, un desarrollador de software apasionado por el desarrollo de apps web y automatizaciones. Tengo experiencia con Angular y NodeJs, actualmente estoy enfocado en desarrollo de aplicaciones integradas con APIs de terceros, bases de datos relacionales y Microservicios con NestJs.
 
 ## 🚀 Experiencia y habilidades
 - Experiencia laboral en Odontos.
